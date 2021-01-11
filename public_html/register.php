@@ -50,7 +50,7 @@
 		            </select>
 		            <small id="t_error" class="form-text text-muted"></small>
 		          </div>
-		          <button type="submit" name="user_register" class="btn btn-primary"><span class="fa fa-user"></span>&nbsp;Register</button>
+		          <button type="submit" name="user_register" class="btn btn-dark"><span class="fa fa-user"></span>&nbsp;Register</button>
 		          <span><a href="index.php">Login</a></span>
 		        </form>
 		      </div>

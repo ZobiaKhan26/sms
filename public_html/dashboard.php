@@ -35,7 +35,7 @@
 				    
                     
         
-                    <!-- <a href="#" class="btn btn-primary"><i class="fa fa-edit">&nbsp;</i>Edit Profile</a> -->
+                    <!-- <a href="#" class="btn btn-dark"><i class="fa fa-edit">&nbsp;</i>Edit Profile</a> -->
 				  </div>
 				</div>
 			</div>
@@ -52,7 +52,7 @@
 						      <div class="card-body">
 						        <h4 class="card-title">New Orders</h4>
 						        <p class="card-text">Here you can make invoices and create new orders</p>
-						        <a href="new_order.php" class="btn btn-primary">New Orders</a>
+						        <a href="new_order.php" class="btn btn-dark">New Orders</a>
 						      </div>
 						    </div>
 						</div>
@@ -70,8 +70,8 @@
 						<div class="card-body">
 						<h4 class="card-title">Categories</h4>
 						<p class="card-text">Here you can manage your categories and you add new parent and sub categories</p>
-						<a href="#" data-toggle="modal" data-target="#form_category" class="btn btn-primary">Add</a>
-						<a href="manage_categories.php" class="btn btn-primary">Manage</a>
+						<a href="#" data-toggle="modal" data-target="#form_category" class="btn btn-dark">Add</a>
+						<a href="manage_categories.php" class="btn btn-dark">Manage</a>
 					</div>
 				</div>
 			</div>
@@ -80,8 +80,8 @@
 						<div class="card-body">
 						<h4 class="card-title">Brands</h4>
 						<p class="card-text">Here you can manage your brand and you add new brand</p>
-						<a href="#" data-toggle="modal" data-target="#form_brand" class="btn btn-primary">Add</a>
-						<a href="manage_brand.php" class="btn btn-primary">Manage</a>
+						<a href="#" data-toggle="modal" data-target="#form_brand" class="btn btn-dark">Add</a>
+						<a href="manage_brand.php" class="btn btn-dark">Manage</a>
 					</div>
 				</div>
 			</div>
@@ -90,8 +90,8 @@
 						<div class="card-body">
 						<h4 class="card-title">Products</h4>
 						<p class="card-text">Here you can manage your prpducts and you add new products</p>
-						<a href="#" data-toggle="modal" data-target="#form_products" class="btn btn-primary">Add</a>
-						<a href="manage_product.php" class="btn btn-primary">Manage</a>
+						<a href="#" data-toggle="modal" data-target="#form_products" class="btn btn-dark">Add</a>
+						<a href="manage_product.php" class="btn btn-dark">Manage</a>
 					</div>
 				</div>
 			</div>
@@ -99,7 +99,7 @@
 	</div>
 
 
-	
+<!-- 	
 	<?php
 	//Categpry Form
 	include_once("./templates/category.php");
@@ -111,7 +111,7 @@
 	 <?php
 	//Products Form
 	include_once("./templates/products.php");
-	 ?>
+	 ?> -->
 
 
 </body>

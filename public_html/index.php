@@ -44,7 +44,7 @@
 			    <input type="password" class="form-control" name="log_password" id="log_password" placeholder="Password">
 			  	<small id="p_error" class="form-text text-muted"></small>
 			  </div>
-			  <button type="submit" class="btn btn-primary"><i class="fa fa-lock">&nbsp;</i>Login</button>
+			  <button type="submit" class="btn btn-dark"><i class="fa fa-lock">&nbsp;</i>Login</button>
 			  <span><a href="register.php">Register</a></span>
 			</form>
 		    
